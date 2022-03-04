@@ -1,0 +1,43 @@
+//NotoSansKR
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Noto Sans KR Thin'),
+      url('../Noto_Sans_KR/NotoSansKR-Thin.otf') format('otf'),
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Spoqa Han Sans Light'),
+      url('../Noto_Sans_KR/NotoSansKR-Light.otf') format('otf'),
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Noto Sans KR Regular'),
+      url('../Noto_Sans_KR/NotoSansKR-Medium.otf') format('otf'),
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 500;
+  src: local('Noto Sans KR Medium'),
+      url('../Noto_Sans_KR/NotoSansKR-Medium.otf') format('otf'),
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Noto Sans KR Bold'),
+      url('../Noto_Sans_KR/NotoSansKR-Bold.otf') format('otf'),
+}
+@font-face {
+  font-family: 'Noto Sans KR';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Noto Sans KR Black'),
+      url('../Noto_Sans_KR/NotoSansKR-Black.otf') format('otf'),
+}

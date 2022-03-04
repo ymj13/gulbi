@@ -1,0 +1,26 @@
+.table {
+  border-top: 0.1rem solid $line4;
+  border-bottom: 0.1rem solid $line4;
+  padding: 1.6rem 0;
+  dl {
+      display: flex;
+      align-items: center;
+      dt {
+          font-size: 1.5rem;
+          font-weight: $fontLight;
+          color: $black;
+      }
+      dd {
+          margin-left: auto;
+          font-size: 1.5rem;
+          font-weight: $fontLight;
+          color: $black;
+          .table-number + .table-unit {
+              margin-left: 0.4rem;
+          }
+      }
+      dt + dd {
+          padding-top: 0.8rem;
+      }
+  }
+}
