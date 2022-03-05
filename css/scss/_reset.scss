@@ -24,6 +24,7 @@ body, div, p, span, h1, h2, h3, h4, h5, h6, ul, ol, li, dl, dt, dd, table, th, t
   box-sizing: border-box;
 }
 body, input, textarea, select, button, table {
+  // 메모 : 기본 font-size 확인
   font-size: 1.6rem;
   font-family: 'Noto Sans KR', sans-serif;
   line-height: 1.4;
